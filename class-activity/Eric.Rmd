@@ -1,0 +1,12 @@
+---
+title: "Untitled"
+author: "Wentao(Eric) Zhang"
+date: "2024-10-03"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+My name is Eric Zhang. I am a senior who majored in statistics and data science.
