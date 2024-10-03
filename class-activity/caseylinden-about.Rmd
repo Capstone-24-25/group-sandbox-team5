@@ -1,0 +1,11 @@
+---
+title: "info"
+output: html_document
+date: "2024-10-03"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+### I've broken four bones and I'm half Scottish.
