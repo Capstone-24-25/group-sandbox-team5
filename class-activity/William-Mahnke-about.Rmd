@@ -1,0 +1,14 @@
+---
+title: "class-activity"
+author: "William Mahnke"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## About Me
+
+I went kayaking with the actor who played the dad on Drake and Josh.
